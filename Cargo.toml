@@ -1,0 +1,6 @@
+[package]
+name = "exercises_option_from_another_perspective"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
